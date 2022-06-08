@@ -1,5 +1,6 @@
 field,display_name,btn,hidden,sort_name
-date,Release Date,,,Release Date
 creator,Director,,,Director
-subject,,true
+date,Release Date,,,Release Date
+form,Format,true,,Format
+genre,Genre,true,,
 description,,,

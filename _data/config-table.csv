@@ -1,5 +1,6 @@
 field,display_name
 title,Title
+creator,Director
 date,Date
 description,Description
-subject,Subjects
+genre,Genre
